@@ -1,0 +1,51 @@
+# Creative Tab
+itemGroup.pesquerasnethermod=Pesquera's Nether Mod
+
+# Fluids
+fluid.pesquerasnethermod.honey.name=Honey
+fluid.pesquerasnethermod.water_vapor.name=Water Vapor
+
+# Blocks
+tile.pesquerasnethermod.wax.name=Wax
+tile.pesquerasnethermod.wax_hard.name=Hard Wax
+tile.pesquerasnethermod.thorn_bush.name=Thorn Bush
+tile.pesquerasnethermod.nucleus.name=Nucleus
+tile.pesquerasnethermod.netherroot.name=Netherroot
+tile.pesquerasnethermod.honey.name=Honey
+tile.pesquerasnethermod.water_vapor.name=Water Vapor
+tile.pesquerasnethermod.heart.name=Heart Block
+
+# Items
+item.pesquerasnethermod.shell_piece.name=Shell Piece
+item.pesquerasnethermod.stinger.name=Stinger
+item.pesquerasnethermod.honeycomb.name=Honeycomb
+item.pesquerasnethermod.bottle_hellfire.name=Hellfire Bottle
+item.pesquerasnethermod.bottle_splash_hellfire.name=Hellfire Splash Bottle
+item.pesquerasnethermod.bottle_honey.name=Honey Bottle
+item.pesquerasnethermod.steak_spicy.name=Spicy Steak
+item.pesquerasnethermod.seeds_netherroot.name=Netherroot Seeds
+item.pesquerasnethermod.seeds_mixed.name=Mixed Seeds
+item.pesquerasnethermod.wheat_red.name=Red Wheat
+item.pesquerasnethermod.block_nucleus.name=Nucleus
+item.pesquerasnethermod.netherroot.name=Netherroot
+
+item.pesquerasnethermod.armor_shell_helmet.name=Shell Helmet
+item.pesquerasnethermod.armor_shell_chestplate.name=Shell Chestplate
+item.pesquerasnethermod.armor_shell_leggings.name=Shell Leggings
+item.pesquerasnethermod.armor_shell_boots.name=Shell Boots
+
+# Tooltips
+item.pesquerasnethermod.bottle_honey.tooltip=A Sugary Drink
+item.pesquerasnethermod.bottle_hellfire.tooltip=Don't Drink It!
+item.pesquerasnethermod.bottle_splash_hellfire.tooltip=Don't Drop It!
+
+# Entities
+entity.pesquerasnethermod.bee.name=Bee
+entity.pesquerasnethermod.larva.name=Larva
+
+# Death Message
+death.attack.pesquerasnethermod.bottle_hellfire=%s tried to drink fire!
+death.attack.pesquerasnethermod.thorn_bush=%s was impaled by thorns
+
+# Chat Message
+chatmessage.pesquerasnethermod.bottle_hellfire=Nothing happened?

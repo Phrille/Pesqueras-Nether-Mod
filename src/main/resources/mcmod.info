@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pesquerasnethermod",
+  "name": "Pesquera's Nether Mod",
+  "description": "",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Soupbubbles"],
+  "credits": "Pesquera for orginal mod and artwork concept. The_cataclysm for textures and support",
+  "logoFile": "assets/pesquerasnethermod/textures/logo/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

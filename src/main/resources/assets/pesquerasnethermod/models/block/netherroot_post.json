@@ -1,0 +1,6 @@
+{
+    "parent": "pesquerasnethermod:block/growth_post",
+    "textures": {
+        "texture": "blocks/magma"
+    }
+}

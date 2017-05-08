@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "age=0": { "model": "pesquerasnethermod:nucleus_stage0" },
+        "age=1": { "model": "pesquerasnethermod:nucleus_stage1" },
+        "age=2": { "model": "pesquerasnethermod:nucleus_stage2" },
+        "age=3": { "model": "pesquerasnethermod:nucleus_stage3" },
+        "age=4": { "model": "pesquerasnethermod:nucleus_stage4" }
+    }
+}

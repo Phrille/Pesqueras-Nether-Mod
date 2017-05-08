@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "forge:fluid"
+    },
+    "variants": {
+        "honey": [
+            {
+                "custom": {
+                    "fluid": "honey"
+                }
+            }
+        ],
+        "water_vapor": [
+            {
+                "custom": {
+                    "fluid": "water_vapor"
+                }
+            }
+        ]
+        
+    }
+}
